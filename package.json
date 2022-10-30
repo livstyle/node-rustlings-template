@@ -1,0 +1,28 @@
+{
+  "name": "node-rustlings-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "list": "nrustlings list",
+    "watch": "nrustlings watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livstyle/node-rustlings-template.git"
+  },
+  "keywords": [
+    "rustlings",
+    "node"
+  ],
+  "author": "姜坤",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livstyle/node-rustlings-template/issues"
+  },
+  "homepage": "https://github.com/livstyle/node-rustlings-template#readme",
+  "dependencies": {
+    "rustlings": "^0.0.1"
+  }
+}
